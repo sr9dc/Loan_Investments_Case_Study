@@ -10,7 +10,7 @@
 
 ### Built With
 
-* [Jupyter Notebook](https://jupyter.org/)
+* [Jupyter Notebook](https://github.com/sr9dc/Loan_Investments_Case_Study/blob/main/Case_Study%2C_Phase_3_mkasari_srajulad_kellymcm_nthomas_FINAL.ipynb)
 
 
 
