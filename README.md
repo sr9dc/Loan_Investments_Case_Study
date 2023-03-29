@@ -35,14 +35,9 @@ This project employed predictive analytics to predict the likelihood of loan def
 We also looked at the trend of return versus our portfolio size and found that as we choose the best loans and add more bonds to our portfolio, our total return decreases. We also identified various pain points that could compound our portfolio size problem, such as single issuer and market maker - supply shortage and limited product offerings.
 
 
-
 ## Code
 
-#### [EDA Sample 1](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_EDA.ipynb)
-
-#### [Census_Model_Run.ipynb](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run.ipynb)
-
-#### [Census_Model_Run_AutoML.ipynb](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Project%20Code/Census_Model_Run.ipynb)
+#### [Final Phase 3 Code](https://github.com/sr9dc/Loan_Investments_Case_Study/blob/main/Case_Study%2C_Phase_3_mkasari_srajulad_kellymcm_nthomas_FINAL.ipynb)
 
 
 
@@ -51,15 +46,8 @@ We also looked at the trend of return versus our portfolio size and found that a
 View the report pdf to see our detailed findings. 
 
 
-#### [Final Report](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Final%20Report.pdf)
+#### [Final Report](https://github.com/sr9dc/Loan_Investments_Case_Study/blob/main/Case_Study_Phase_3_Writeup_mkasari_srajulad_kellymcm_nthomas.pdf)
 
-
-## Presentation
-
-View the presentation slides. 
-
-
-#### [Presentation](https://github.com/sr9dc/Pittsburgh_Single_Family_Home_Price/blob/main/Presentation/Home%20Price%20Presentation%2C%20Thursday%20DEC%208.pdf)
 
 
 
