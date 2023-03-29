@@ -49,7 +49,15 @@ View the report pdf to see our detailed findings.
 #### [Final Report](https://github.com/sr9dc/Loan_Investments_Case_Study/blob/main/Case_Study_Phase_3_Writeup_mkasari_srajulad_kellymcm_nthomas.pdf)
 
 
+## Team Members
 
+Mira Kasari, mkasari
+
+Sairathan Rajuladevi, srajulad
+
+Kelly McManus, kellymcm
+
+Cole Thomas, nhthomas
 
 <!-- CONTRIBUTING -->
 ## Contributing
