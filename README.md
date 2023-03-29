@@ -16,19 +16,23 @@
 
 <!-- ABOUT -->
 ## Topic
-The purpose of this project was to use historical data from online peer-to-peer lending platforms such as Prosper and LendingClub to analyze the risk and return associated with investments in these platforms. The project used data from loans issued between 2008 and 2019, containing features such as loan amount, interest rate, monthly installment amount, loan status, and several additional attributes related to the borrower. Through the analysis of the data, the project aimed to construct informed investment strategies by predicting which loans are more or less likely to default and which will yield higher or lower returns.
+The purpose of this project was to use historical data from online peer-to-peer lending platforms such as Prosper and LendingClub to analyze the risk and return associated with investments in these platforms. The project used data from loans issued between 2008 and 2019, containing features such as loan amount, interest rate, monthly installment amount, loan status, and several additional attributes related to the borrower. 
 
-
+Through the analysis of the data, the project aimed to construct informed investment strategies by predicting which loans are more or less likely to default and which will yield higher or lower returns.
 
 
 ## Overview
 
-We employed feature engineering on continuous features to ensure all columns are of the same type and our outcome column was based on ‘loan_status’. We fit various classification models such as Naive Bayes, l1 regularized logistic regression, l2 regularized logistic regression, decision tree, random forest classifier, and a multi-layer perceptron. We tuned hyperparameters for each model to optimize performance. We also tested the hypothesis that if you wanted to increase the number of loans you wished to invest in, you would eventually “run out” of good loans to invest in. We found that as we add more bonds to our portfolio, our total return decreases. We identified two pain points in this market that could hinder returns: 1. single issuer and market maker - supply shortage and 2. limited product offerings.
+We employed feature engineering on continuous features to ensure all columns are of the same type and our outcome column was based on ‘loan_status’. We fit various classification models such as Naive Bayes, l1 regularized logistic regression, l2 regularized logistic regression, decision tree, random forest classifier, and a multi-layer perceptron. 
+
+We tuned hyperparameters for each model to optimize performance. We also tested the hypothesis that if you wanted to increase the number of loans you wished to invest in, you would eventually “run out” of good loans to invest in. We found that as we add more bonds to our portfolio, our total return decreases. We identified two pain points in this market that could hinder returns: 1. single issuer and market maker - supply shortage and 2. limited product offerings.
 
 
 ## Goal
 
-This project employed predictive analytics to predict the likelihood of loan default and used predictive models to develop various investment strategies. We set up our model training and evaluation by importing necessary packages and loading the data from our pickle file. We tuned hyperparameters for each model, such as “var_smoothing” for Naive Bayes and “C” for logistic regression, and used cross-validation to determine the best-performing model. We also looked at the trend of return versus our portfolio size and found that as we choose the best loans and add more bonds to our portfolio, our total return decreases. We also identified various pain points that could compound our portfolio size problem, such as single issuer and market maker - supply shortage and limited product offerings.
+This project employed predictive analytics to predict the likelihood of loan default and used predictive models to develop various investment strategies. We set up our model training and evaluation by importing necessary packages and loading the data from our pickle file. We tuned hyperparameters for each model, such as “var_smoothing” for Naive Bayes and “C” for logistic regression, and used cross-validation to determine the best-performing model. 
+
+We also looked at the trend of return versus our portfolio size and found that as we choose the best loans and add more bonds to our portfolio, our total return decreases. We also identified various pain points that could compound our portfolio size problem, such as single issuer and market maker - supply shortage and limited product offerings.
 
 
 
