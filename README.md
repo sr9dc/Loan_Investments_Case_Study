@@ -37,16 +37,16 @@ We also looked at the trend of return versus our portfolio size and found that a
 
 ## Code
 
-#### [Final Phase 3 Code](https://github.com/sr9dc/Loan_Investments_Case_Study/blob/main/Case_Study%2C_Phase_3_mkasari_srajulad_kellymcm_nthomas_FINAL.ipynb)
+#### [Phase 3 Code](https://github.com/sr9dc/Loan_Investments_Case_Study/blob/main/Case_Study%2C_Phase_3_mkasari_srajulad_kellymcm_nthomas_FINAL.ipynb)
 
 
 
 ## Results
 
-View the report pdf to see our detailed findings. 
+View the report pdf to see our detailed modeling approaches. 
 
 
-#### [Final Report](https://github.com/sr9dc/Loan_Investments_Case_Study/blob/main/Case_Study_Phase_3_Writeup_mkasari_srajulad_kellymcm_nthomas.pdf)
+#### [Phase 3 Report](https://github.com/sr9dc/Loan_Investments_Case_Study/blob/main/Case_Study_Phase_3_Writeup_mkasari_srajulad_kellymcm_nthomas.pdf)
 
 
 ## Team Members
