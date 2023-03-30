@@ -7,13 +7,6 @@
 -->
 
 
-
-### Built With
-
-* [Jupyter Notebook](https://github.com/sr9dc/Loan_Investments_Case_Study/blob/main/Case_Study%2C_Phase_3_mkasari_srajulad_kellymcm_nthomas_FINAL.ipynb)
-
-
-
 <!-- ABOUT -->
 ## Topic
 The purpose of this project was to use historical data from online peer-to-peer lending platforms such as Prosper and LendingClub to analyze the risk and return associated with investments in these platforms. The project used data from loans issued between 2008 and 2019, containing features such as loan amount, interest rate, monthly installment amount, loan status, and several additional attributes related to the borrower. 
