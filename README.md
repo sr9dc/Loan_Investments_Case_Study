@@ -1,4 +1,4 @@
-# Profitable Loan Investment Modeling Case Study
+# [Profitable Loan Investment Modeling Case Study](https://github.com/sr9dc/Loan_Investments_Case_Study/blob/main/Case_Study_Phase_3_Writeup_mkasari_srajulad_kellymcm_nthomas.pdf)
 
 <!--
 *** Thanks for checking out this project. If you have a suggestion
